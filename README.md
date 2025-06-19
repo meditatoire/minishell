@@ -1,4 +1,4 @@
-# 🐚 Minishell
+# Minishell
 
 A minimal Unix-like shell implemented in C.
 
